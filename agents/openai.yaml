@@ -1,0 +1,4 @@
+interface:
+  display_name: "动物园skill"
+  short_description: "自然活用主播圈原话、人物关系和变体句式，并按语境控制玩梗浓度"
+  default_prompt: "使用 $dongwuyuan-skill 自然改写这段中文，让梗融入语境但不自曝来源。"
